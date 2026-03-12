@@ -29,8 +29,8 @@ IVASMS_DASHBOARD = {
     "login_url": "https://ivas.tempnum.qzz.io/login",
     "base_url": "https://ivas.tempnum.qzz.io",
     "sms_api_endpoint": "https://ivas.tempnum.qzz.io/portal/sms/received/getsms",
-    "username": "sjhsieheeoejeei46546@gmail.com",
-    "password": "Jasem123",
+    "username": "asmeralselwi103@gmail.com",
+    "password": "Mohammed Saeed 123",
     "session": requests.Session(),
     "is_logged_in": False,
     "cookies": None,
@@ -43,11 +43,9 @@ IVASMS_DASHBOARD = {
 # ======================
 USERNAME = "godzilla11"
 PASSWORD = "kosomak"
-BOT_TOKEN = "8215747409:AAEb4G-CY3Q-gFiNZpcZdTqeSLMcof4fWAM"
+BOT_TOKEN = "8325061391:AAESPAfQ93gf79feMa8YgRMCOgTSHxGnu40"
 CHAT_IDS = [
-    "-1003643418177",  
-    "-1003191313969", 
-    "-1003745034804",
+    "-1003745034804",  
 ]
 REFRESH_INTERVAL = 3
 TIMEOUT = 100
@@ -60,7 +58,7 @@ IDX_NUMBER = 2
 IDX_SMS = 5
 SENT_MESSAGES_FILE = "sent_messages.json"
 
-ADMIN_IDS = [8300713565, 7190804796]  
+ADMIN_IDS = [1279761289]  
 DB_PATH = "bot.db"
 FORCE_SUB_CHANNEL = None
 FORCE_SUB_ENABLED = False
