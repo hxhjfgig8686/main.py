@@ -1,0 +1,5 @@
+requests
+pyTelegramBotAPI
+httpx
+beautifulsoup4
+lxml
